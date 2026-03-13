@@ -1,0 +1,73 @@
+[2026-03-13 10:02:28] === Memulai Recon Otomatis ===
+[2026-03-13 10:02:28] Sedang memproses: a.ns.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada a.ns.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: api.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada api.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: b.ns.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada b.ns.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: docs.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada docs.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: gslink.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada gslink.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: mta-sts.forwarding.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada mta-sts.forwarding.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: mta-sts.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada mta-sts.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: mta-sts.managed.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada mta-sts.managed.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: support.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada support.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Sedang memproses: www.hackerone.com
+[2026-03-13 10:02:28] Terjadi kesalahan pada www.hackerone.com (cek errors.log)
+[2026-03-13 10:02:28] Memulai verifikasi live hosts untuk semua subdomain...
+[2026-03-13 10:02:28] INFO: Tidak ada subdomain ditemukan untuk dicek.
+[2026-03-13 10:02:28] === Recon Selesai ===
+[2026-03-13 10:02:28] Total Subdomain Unik: 0
+[2026-03-13 10:02:28] Total Live Hosts: 0
+--------------------------------------------------
+[2026-03-13 10:06:28] === Memulai Recon Otomatis ===
+[2026-03-13 10:06:28] Sedang memproses: a.ns.hackerone.com
+a.ns.hackerone.com
+[2026-03-13 10:06:29] Selesai enumerasi subdomain untuk a.ns.hackerone.com
+[2026-03-13 10:06:29] Sedang memproses: api.hackerone.com
+api.hackerone.com
+[2026-03-13 10:06:32] Selesai enumerasi subdomain untuk api.hackerone.com
+[2026-03-13 10:06:32] Sedang memproses: b.ns.hackerone.com
+b.ns.hackerone.com
+[2026-03-13 10:06:34] Selesai enumerasi subdomain untuk b.ns.hackerone.com
+[2026-03-13 10:06:34] Sedang memproses: docs.hackerone.com
+docs.hackerone.com
+[2026-03-13 10:06:35] Selesai enumerasi subdomain untuk docs.hackerone.com
+[2026-03-13 10:06:35] Sedang memproses: gslink.hackerone.com
+gslink.hackerone.com
+[2026-03-13 10:06:36] Selesai enumerasi subdomain untuk gslink.hackerone.com
+[2026-03-13 10:06:36] Sedang memproses: mta-sts.forwarding.hackerone.com
+mta-sts.forwarding.hackerone.com
+[2026-03-13 10:06:38] Selesai enumerasi subdomain untuk mta-sts.forwarding.hackerone.com
+[2026-03-13 10:06:38] Sedang memproses: mta-sts.hackerone.com
+mta-sts.hackerone.com
+[2026-03-13 10:06:39] Selesai enumerasi subdomain untuk mta-sts.hackerone.com
+[2026-03-13 10:06:39] Sedang memproses: mta-sts.managed.hackerone.com
+mta-sts.managed.hackerone.com
+[2026-03-13 10:06:41] Selesai enumerasi subdomain untuk mta-sts.managed.hackerone.com
+[2026-03-13 10:06:41] Sedang memproses: support.hackerone.com
+support.hackerone.com
+[2026-03-13 10:06:44] Selesai enumerasi subdomain untuk support.hackerone.com
+[2026-03-13 10:06:44] Sedang memproses: www.hackerone.com
+www.hackerone.com
+[2026-03-13 10:06:47] Selesai enumerasi subdomain untuk www.hackerone.com
+[2026-03-13 10:06:47] Memulai verifikasi live hosts untuk semua subdomain...
+http://a.ns.hackerone.com [[33m301[0m] [[36m301 Moved Permanently[0m]
+http://b.ns.hackerone.com [[33m301[0m] [[36m301 Moved Permanently[0m]
+https://docs.hackerone.com [[33m302[0m]
+https://mta-sts.hackerone.com [[31m404[0m] [[36mPage not found · GitHub Pages[0m]
+https://mta-sts.forwarding.hackerone.com [[31m404[0m] [[36mPage not found · GitHub Pages[0m]
+https://support.hackerone.com [[33m302[0m]
+https://api.hackerone.com [[32m200[0m] [[36mHackerOne API[0m]
+https://mta-sts.managed.hackerone.com [[31m404[0m] [[36mPage not found · GitHub Pages[0m]
+https://www.hackerone.com [[32m200[0m] [[36mHackerOne | Global leader in offensive security | Security for AI | Crowdsourced Security[0m]
+https://gslink.hackerone.com [[31m404[0m] [[36m404 Not Found[0m]
+[2026-03-13 10:06:52] === Recon Selesai ===
+[2026-03-13 10:06:52] Total Subdomain Unik: 10
+[2026-03-13 10:06:52] Total Live Hosts: 10
+--------------------------------------------------
